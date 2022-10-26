@@ -1,1 +1,120 @@
-function _0xe9d9(_0x8ac87c,_0x3b7218){const _0x3a4227=_0x3a42();return _0xe9d9=function(_0xe9d9c4,_0x3e0454){_0xe9d9c4=_0xe9d9c4-0xf1;let _0x204d1e=_0x3a4227[_0xe9d9c4];return _0x204d1e;},_0xe9d9(_0x8ac87c,_0x3b7218);}const _0x491874=_0xe9d9;function _0x3a42(){const _0x23f60d=['August','April','6932CeFYfn','3079038cVxfJN','October','help','getDay','wb-close','innerText','#projects','#contact','about','focus','6331340iDxMGm','My\x20Projects','#about-content','Enter','#help','date','#resume','Wednesday','projects','34661yWwJGq','contact','4092cGssjz','cmd','May','getMonth','getHours','#about','style','clear','Resume','querySelector','resume','#resume-content','getElementsByClassName','hideNavBar','#time','398752HmaRiH','getElementById','#777','January','27lAFwxi','September','My\x20Skills','getMinutes','1180kxaIkr','body','setBackground','command\x20not\x20found:\x20\x27','#contact-content','Saturday','1529dkLLgw','addEventListener','display','July','#skills','innerHTML','1097375WxKdrd','getSeconds','keypress','Friday','1824AGaWTd','About\x20Me','March','displayNavBar','7xeYIKi','#cmd','key','600px','value','#output','click','flex','nav\x20ul'];_0x3a42=function(){return _0x23f60d;};return _0x3a42();}(function(_0x2adfdb,_0x17ec41){const _0xa5f286=_0xe9d9,_0x31e116=_0x2adfdb();while(!![]){try{const _0x20dc60=parseInt(_0xa5f286(0x125))/0x1*(parseInt(_0xa5f286(0x11f))/0x2)+parseInt(_0xa5f286(0x12f))/0x3*(parseInt(_0xa5f286(0xf2))/0x4)+-parseInt(_0xa5f286(0x12b))/0x5+-parseInt(_0xa5f286(0xf3))/0x6*(parseInt(_0xa5f286(0x133))/0x7)+parseInt(_0xa5f286(0x117))/0x8*(-parseInt(_0xa5f286(0x11b))/0x9)+parseInt(_0xa5f286(0xfd))/0xa+-parseInt(_0xa5f286(0x106))/0xb*(parseInt(_0xa5f286(0x108))/0xc);if(_0x20dc60===_0x17ec41)break;else _0x31e116['push'](_0x31e116['shift']());}catch(_0xd1766d){_0x31e116['push'](_0x31e116['shift']());}}}(_0x3a42,0x9a5ad));const about=document[_0x491874(0x111)](_0x491874(0x10d)),aboutContent=document[_0x491874(0x111)](_0x491874(0xff)),skills=document[_0x491874(0x111)](_0x491874(0x129)),skillsContent=document[_0x491874(0x111)]('#skills-content'),projects=document[_0x491874(0x111)](_0x491874(0xf9)),projectsContent=document[_0x491874(0x111)]('#projects-content'),resume=document[_0x491874(0x111)](_0x491874(0x103)),resumeContent=document[_0x491874(0x111)](_0x491874(0x113)),contact=document[_0x491874(0x111)](_0x491874(0xfa)),contactContent=document[_0x491874(0x111)](_0x491874(0x123)),cmd=document[_0x491874(0x111)](_0x491874(0x134)),nav=document['querySelector'](_0x491874(0x13b)),output=document['querySelector'](_0x491874(0x138)),help=document['querySelector'](_0x491874(0x101)),main=document[_0x491874(0x111)]('#main'),body=document['querySelector'](_0x491874(0x120)),time=document[_0x491874(0x111)](_0x491874(0x116));function CreateBox(_0x5baa58,_0x21ec4d){const _0x2b2d72=_0x491874;return new WinBox({'title':_0x5baa58,'width':'600px','height':_0x2b2d72(0x136),'top':0x32,'right':0x32,'bottom':0x32,'left':0x32,'mount':_0x21ec4d,'onfocus':function(){const _0x3a6ce5=_0x2b2d72;this[_0x3a6ce5(0x121)]('#00aa00');},'onblur':function(){const _0x534832=_0x2b2d72;this['setBackground'](_0x534832(0x119));}});}about[_0x491874(0x126)](_0x491874(0x139),()=>{const _0x2e937f=CreateBox('About\x20Me',aboutContent);}),skills[_0x491874(0x126)]('click',()=>{const _0x21bd69=CreateBox('My\x20Skills',skillsContent);}),projects['addEventListener'](_0x491874(0x139),()=>{const _0x5c8a2b=_0x491874,_0xe82adf=CreateBox(_0x5c8a2b(0xfe),projectsContent);}),resume['addEventListener'](_0x491874(0x139),()=>{const _0x3fde43=_0x491874,_0x4bac56=CreateBox(_0x3fde43(0x110),resumeContent);}),contact['addEventListener'](_0x491874(0x139),()=>{const _0x57f936=CreateBox('Contact\x20Me!',contactContent);}),window['addEventListener']('keydown',()=>{const _0x3c90e9=_0x491874;document[_0x3c90e9(0x118)](_0x3c90e9(0x109))[_0x3c90e9(0xfc)]();}),window[_0x491874(0x126)]('keydown',_0x4eaed7=>{const _0x5e965e=_0x491874;_0x4eaed7[_0x5e965e(0x135)]==='Escape'&&document[_0x5e965e(0x114)](_0x5e965e(0xf7))[0x0]['click']();}),cmd['addEventListener'](_0x491874(0x12d),_0x276b7d=>{const _0xadb42e=_0x491874;if(_0x276b7d[_0xadb42e(0x135)]===_0xadb42e(0x100)){switch(cmd['value']){case'ls':output[_0xadb42e(0x12a)]=nav[_0xadb42e(0x12a)];break;case _0xadb42e(0xf5):output['innerHTML']=help[_0xadb42e(0x12a)];break;case _0xadb42e(0xfb):CreateBox(_0xadb42e(0x130),aboutContent);break;case'skills':CreateBox(_0xadb42e(0x11d),skillsContent);break;case _0xadb42e(0x105):CreateBox(_0xadb42e(0xfe),projectsContent);break;case _0xadb42e(0x112):CreateBox(_0xadb42e(0x110),resumeContent);break;case _0xadb42e(0x107):CreateBox('Contact\x20Me!',contactContent);break;case _0xadb42e(0x10f):output[_0xadb42e(0x12a)]='';break;case _0xadb42e(0x132):nav[_0xadb42e(0x10e)][_0xadb42e(0x127)]=_0xadb42e(0x13a);break;case _0xadb42e(0x115):nav['style']['display']='none';break;default:output[_0xadb42e(0xf8)]=_0xadb42e(0x122)+cmd[_0xadb42e(0x137)]+'\x27';}cmd[_0xadb42e(0x137)]='';}}),setInterval(()=>{const _0x1d53ab=_0x491874,_0x3a7600=['Sunday','Monday','Tuesday',_0x1d53ab(0x104),'Thursday',_0x1d53ab(0x12e),_0x1d53ab(0x124)],_0x11e560=[_0x1d53ab(0x11a),'February',_0x1d53ab(0x131),_0x1d53ab(0xf1),_0x1d53ab(0x10a),'June',_0x1d53ab(0x128),_0x1d53ab(0x13c),_0x1d53ab(0x11c),_0x1d53ab(0xf4),'November','December'];let _0xe972fa=new Date(),_0x176a38=_0xe972fa[_0x1d53ab(0x10c)](),_0xdfecad=_0xe972fa[_0x1d53ab(0x11e)](),_0x3163f5=_0xe972fa[_0x1d53ab(0x12c)](),_0x239e98=_0x3a7600[_0xe972fa[_0x1d53ab(0xf6)]()],_0xea5c9d=_0x11e560[_0xe972fa[_0x1d53ab(0x10b)]()],_0x2e4596=_0xe972fa['getDate'](),_0x57f910;_0x176a38>0xc?(_0x176a38=_0x176a38-0xc,_0x57f910='PM'):_0x57f910='AM',_0x176a38=_0x176a38<0xa?'0'+_0x176a38:_0x176a38,_0xdfecad=_0xdfecad<0xa?'0'+_0xdfecad:_0xdfecad,_0x3163f5=_0x3163f5<0xa?'0'+_0x3163f5:_0x3163f5,time[_0x1d53ab(0xf8)]=_0x176a38+':'+_0xdfecad+':'+_0x3163f5+'\x20'+_0x57f910,document['getElementById'](_0x1d53ab(0x102))['innerText']=_0x239e98+','+_0xea5c9d+'\x20'+_0x2e4596;});
+const about = document.querySelector('#about');
+const aboutContent = document.querySelector('#about-content');
+const skills = document.querySelector('#skills');
+const skillsContent = document.querySelector('#skills-content');
+const projects = document.querySelector('#projects');
+const projectsContent = document.querySelector('#projects-content');
+const resume = document.querySelector('#resume');
+const resumeContent = document.querySelector('#resume-content');
+const contact = document.querySelector('#contact');
+const contactContent = document.querySelector('#contact-content');
+const cmd = document.querySelector('#cmd');
+const nav = document.querySelector('nav ul');
+const output = document.querySelector('#output');
+const help = document.querySelector('#help');
+const main = document.querySelector('#main');
+const body = document.querySelector('body');
+const time = document.querySelector('#time');
+function CreateBox(a,content){
+    return new WinBox({
+        title: a,
+        width:'600px',
+        height:'600px',
+        top:50,
+        right:50,
+        bottom:50,
+        left:50,
+        mount: content,
+        onfocus: function(){
+            this.setBackground('#00aa00');
+        },
+        onblur: function(){
+            this.setBackground('#777');
+        }
+    });
+
+}
+about.addEventListener('click',() => {
+    const aboutBox =  CreateBox('About Me',aboutContent);
+})
+skills.addEventListener('click',() => {
+    const skillsBox =  CreateBox('My Skills',skillsContent);
+})
+projects.addEventListener('click',() => {
+    const projectsBox =  CreateBox('My Projects',projectsContent);
+})
+resume.addEventListener('click',() => {
+    const resumeBox =  CreateBox('Resume',resumeContent);
+})
+contact.addEventListener('click',() => {
+    const contactBox =  CreateBox('Contact Me!',contactContent);
+})
+window.addEventListener("keydown", () => {document.getElementById("cmd").focus()});
+window.addEventListener("keydown",(ev) =>{
+    if(ev.key === "Escape"){
+        document.getElementsByClassName("wb-close")[0].click();
+    }
+});
+cmd.addEventListener("keypress",(event) => {
+    if(event.key === "Enter"){
+        switch(cmd.value){
+            case 'ls':
+                output.innerHTML = nav.innerHTML;
+                break;
+            case 'help':
+                output.innerHTML = help.innerHTML;
+                break;
+            case 'about':
+                CreateBox('About Me',aboutContent);
+                break;
+            case 'skills':
+                CreateBox('My Skills',skillsContent);
+                break;
+            case 'projects':
+                CreateBox('My Projects',projectsContent);
+                break;
+            case 'resume':
+                CreateBox('Resume',resumeContent);
+                break;  
+            case 'contact':
+                CreateBox('Contact Me!',contactContent);
+                break;             
+            case 'clear':
+                output.innerHTML = '';
+                break;
+            case 'displayNavBar':
+                nav.style.display = "flex";
+                break;
+            case 'hideNavBar':
+                nav.style.display = "none";
+                break;
+            default:
+                output.innerText = `command not found: '${cmd.value}'`;
+        }
+        cmd.value = '';
+    }
+})
+setInterval(() =>{
+    const weekday = ["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"];
+    const monthNames = ["January", "February", "March", "April", "May", "June","July", "August", "September", "October", "November", "December"];
+    let dateobj = new Date();
+    let hours = dateobj.getHours();
+    let minutes = dateobj.getMinutes();
+    let seconds = dateobj.getSeconds();
+    let day = weekday[dateobj.getDay()];
+    let month = monthNames[dateobj.getMonth()];
+    let date = dateobj.getDate();
+    let meridiem;
+    if(hours > 12){
+        hours = hours-12;
+        meridiem ="PM";
+    }
+    else{
+        meridiem ="AM";
+    }
+    hours = (hours < 10) ? "0" + hours : hours;
+    minutes = (minutes < 10) ? "0" + minutes : minutes;
+    seconds = (seconds < 10) ? "0" + seconds : seconds;
+    time.innerText = `${hours}:${minutes}:${seconds} ${meridiem}`;
+    document.getElementById('date').innerText = `${day},${month} ${date}`;
+})
