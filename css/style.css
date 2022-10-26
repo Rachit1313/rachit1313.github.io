@@ -1,1 +1,110 @@
-@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;400;700&display=swap');*{box-sizing: border-box;padding: 0;margin: 0;}body{font-family: 'Fira Code', monospace;background-color: #333;color: #ccc;font-size: 18px;line-height: 1.6;}:root{--text-color:#00aa00;}h1{color:var(--text-color);font-size: 30px;letter-spacing: -5px;margin-bottom: 20px;}h2{color:var(--text-color);}h3{color: var(--text-color);margin-bottom: 10px;}.hidden{display: none;}ul{list-style-type: none;}nav{width: 60%;}p{margin: 20px 0;}.container{max-width: 100%;margin-left: 10%;display: fixed;flex-direction: column;margin-top: 5%;justify-content: center;}nav ul{display: none;}nav ul li{color:var(--text-color);padding : 0 5px 0 5px;cursor:pointer;}nav ul :hover{color: #fff;text-shadow: 3px 3px 20px #ff99cc, -2px 1px 30px #ff99cc;}div[id="help"] ul li ol{width: 30px;}#cmd{background-color: transparent;outline: none;border: none;color:white;padding-left: 5px;font-size: 20px;caret-color: var(--text-color);}.wb-body{background-color: #111;padding: 20px;}a{color:var(--text-color);text-decoration: none;}a:hover{color:white;}#clock{position: absolute;top: 12.5%;left: 70%;transform: translate(-5%,-50%);z-index: 999;background: #333;height: 85px;width: 345px;text-align: center;}#clock #time{line-height: 55px;color: #fff;font-size: 40px;font-weight: 700;letter-spacing: 1px;color:var(--text-color) }#clock #date{color:var(--text-color);font-size: 20px;}
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;400;700&display=swap');
+
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: 'Fira Code', monospace;
+    background-color: #333;
+    color: #ccc;
+    font-size: 18px;
+    line-height: 1.6;
+
+}
+:root{
+    --text-color:#00aa00;
+}
+h1{
+    color:var(--text-color);
+    font-size: 30px;
+    letter-spacing: -5px;
+    margin-bottom: 20px;
+}
+h2{
+    color:var(--text-color);
+}
+h3{
+    color: var(--text-color);
+    margin-bottom: 10px;
+}
+.hidden{
+    display: none;
+}
+ul{
+    list-style-type: none;
+}
+nav{
+    width: 60%;
+}
+p{
+    margin: 20px 0;
+}
+.container{
+    max-width: 100%;
+    margin-left: 10%;
+    display: fixed;
+    flex-direction: column;
+    margin-top: 5%;
+    justify-content: center;
+}
+nav ul{
+    display: none;
+}
+nav ul li{
+    color:var(--text-color);
+    padding : 0 5px 0 5px;
+    cursor:pointer;
+}
+nav ul :hover{
+    color: #fff;
+    text-shadow: 3px 3px 20px #ff99cc, -2px 1px 30px #ff99cc;
+}
+div[id="help"] ul li ol{
+    width: 30px;
+
+}
+#cmd{
+    background-color: transparent;
+    outline: none;
+    border: none;
+    color:white;
+    padding-left: 5px;
+    font-size: 20px;
+    caret-color: var(--text-color);
+}
+.wb-body{
+    background-color: #111;
+    padding: 20px;
+}
+a{
+    color:var(--text-color);
+    text-decoration: none;
+}
+a:hover{
+    color:white;
+}
+#clock{
+    position: absolute;
+    top: 12.5%;
+    left: 70%;
+    transform: translate(-5%,-50%);
+    z-index: 999;
+    background: #333;
+    height: 85px;
+    width: 345px;
+    text-align: center;
+}
+#clock #time{
+    line-height: 55px;
+    color: #fff;
+    font-size: 40px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    color:var(--text-color)
+}
+#clock #date{
+    color:var(--text-color);
+    font-size: 20px;
+}
