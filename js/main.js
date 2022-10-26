@@ -88,6 +88,9 @@ cmd.addEventListener("keypress",(event) => {
             case 'hideNavBar':
                 nav.style.display = "none";
                 break;
+            case 'sourceCode':
+                location.href = 'https://github.com/Rachit1313/rachit1313.github.io';
+                break;
             default:
                 output.innerText = `command not found: '${cmd.value}'`;
         }
