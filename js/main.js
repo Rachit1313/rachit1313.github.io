@@ -121,3 +121,4 @@ setInterval(() =>{
     time.innerText = `${hours}:${minutes}:${seconds} ${meridiem}`;
     document.getElementById('date').innerText = `${day},${month} ${date}`;
 })
+document.addEventListener('contextmenu', event => event.preventDefault());
